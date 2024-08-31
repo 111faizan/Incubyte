@@ -1,9 +1,4 @@
-# Incubyte
-
-Here's a sample README description for your JavaScript project developed using the Test-Driven Development (TDD) approach:
-
----
-
+#Incubyte
 # Library Management System using TDD approach in javascript
 
 ## Description
