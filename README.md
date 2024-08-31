@@ -4,7 +4,7 @@ Here's a sample README description for your JavaScript project developed using t
 
 ---
 
-# Project Name
+# Library Management System using TDD approach in javascript
 
 ## Description
 
