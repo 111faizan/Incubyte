@@ -11,16 +11,29 @@ This project is a JavaScript-based application developed using the Test-Driven D
 • Users should be able to add new books to the library.
 • Each book should have a unique identifier (e.g., ISBN), title, author, and
 publication year.
+
+
+
+
 . Borrow Books:
 • Users should be able to borrow a book from the library.
 • The system should ensure that the book is available before allowing it to be
 borrowed.
 • If the book is not available, the system should raise an appropriate error.
+
+
+
+
+
 . Return Books:
 • Users should be able to return a borrowed book.
 • The system should update the availability of the book accordingly.
 . View Available Books:
 • Users should be able to view a list of all available books in the library.
+
+
+
+
 
 Test-Driven Development (TDD):
 
