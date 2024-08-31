@@ -5,8 +5,6 @@
 
 This project is a JavaScript-based application developed using the Test-Driven Development (TDD) approach. TDD is a software development process where tests are written before the actual code. This ensures that the code is robust, reliable, and meets the specified requirements.
 
-The project aims to [briefly describe the project's goal or purpose]. It includes a suite of automated tests to validate the functionality of the application, ensuring that each feature works as intended.
-
 ## Features
 
 . Add Books:
@@ -24,6 +22,12 @@ borrowed.
 . View Available Books:
 • Users should be able to view a list of all available books in the library.
 
+Test-Driven Development (TDD):
+
+Unit tests for all core functionalities.
+Continuous Integration (CI) setup for automated testing.
+Code coverage reports to ensure robust test suites.
+
 ## Technologies Used
 
 - JavaScript
@@ -33,12 +37,12 @@ borrowed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/111faizan/Incubyte.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd [add project directory address]
    ```
 
 3. Install the dependencies:
